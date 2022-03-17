@@ -14,10 +14,13 @@ Segmentar os círculos maiores da imagem, Exibir na imagem a área, o centro de 
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+Imagem de entrada fornecida
 
-<img src="/imagem.jpg" width="550">
+<img src="/circulo.jpg" width="550">
 
+Imagem de saida após alterações
+
+<img src="/saida.jpg" width="550">
 
 ## Como usar 
 
