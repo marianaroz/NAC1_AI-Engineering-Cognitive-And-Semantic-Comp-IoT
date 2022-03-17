@@ -16,7 +16,7 @@ Segmentar os círculos maiores da imagem, Exibir na imagem a área, o centro de 
 
 Imagem de entrada fornecida
 
-<img src="/circulo.jpg" width="550">
+<img src="/circulo.png" width="550">
 
 Imagem de saida após alterações
 
