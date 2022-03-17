@@ -5,14 +5,16 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 # Nome do projeto
 
 **nome dos alunos:** 
+**Mariana Roz Pereira RM 82322**
+**Gabriel Oliveira Lima RM 83004**
 
-**Turma:**
+**Turma: 4SIS**
 
-**Ano:**
+**Ano: 4**
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Segmentar os círculos maiores da imagem, Exibi na imagem a área, o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal. 
 
 ## Diagrama do projeto
 
@@ -23,30 +25,17 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
+É necessario ter instalado as bibliotecas cv2, matplotlib, numpy
 
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
+Rodar sempre o notebook do começo para evitar erros nas imagens
 
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
+Para clonar esse repositório:
 
     cd /home/iot
     git clone https://github.com/arnaldojr/templatenac
     cd templatenac
     ls
 
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
 
 
 ### Referências 
