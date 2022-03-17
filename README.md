@@ -1,10 +1,6 @@
-# Template para desenvolvimento e entrega de NAC
+# NAC1_AI-Engineering-Cognitive-And-Semantic-Comp-IoT
 
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
-# Nome do projeto
-
-**nome dos alunos:** 
+**Integrantes:** 
 **Mariana Roz Pereira RM 82322**
 **Gabriel Oliveira Lima RM 83004**
 
@@ -14,7 +10,7 @@ Esse é um guia simples, o grupo pode e deve modificar o template conforme neces
 
 ## Objetivo / descrição do Projeto
 
-Segmentar os círculos maiores da imagem, Exibi na imagem a área, o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal. 
+Segmentar os círculos maiores da imagem, Exibir na imagem a área, o centro de massa dos círculos e o ângulo de inclinação da reta em relação ao plano horizontal. 
 
 ## Diagrama do projeto
 
@@ -31,12 +27,8 @@ Rodar sempre o notebook do começo para evitar erros nas imagens
 
 Para clonar esse repositório:
 
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
-
+    git clone https://github.com/marianaroz/NAC1_AI-Engineering-Cognitive-And-Semantic-Comp-IoT
+   
 
 ### Referências 
 
