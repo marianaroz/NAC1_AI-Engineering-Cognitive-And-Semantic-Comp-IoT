@@ -20,7 +20,7 @@ Imagem de entrada fornecida
 
 Imagem de saida após alterações
 
-<img src="/saida.jpg" width="550">
+<img src="/saida.png" width="550">
 
 ## Como usar 
 
